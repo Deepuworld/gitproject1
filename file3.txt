@@ -1,0 +1,6 @@
+#! /bin/bash
+name = [ 'mani',deepu']
+for names in ${name}
+do
+ echo "my friend name is ${names} "
+done
