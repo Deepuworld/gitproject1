@@ -1,0 +1,10 @@
+#! /bin/bash
+a=10
+if [[ ${a} -eq 10 ]]
+then
+   echo 'a value is 10'
+else
+   echo 'a not equal to 10 '
+   echo 'hello world'
+yum update- yum
+yum install nginx -y
